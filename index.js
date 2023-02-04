@@ -1,6 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const employeeRouter = require('./routes/EmployeeRoutes.js');
+const restaurantRoute = require('./routes/RestaurantRoute');
 require('dotenv').config();
 
 const app = express();
@@ -19,7 +19,7 @@ mongoose
     console.log('Error Mongodb connection');
   });
 
-app.use(employeeRouter);
+app.use(restaurantRoute);
 
 app.listen(8081, () => {
   console.log('Server is running...');

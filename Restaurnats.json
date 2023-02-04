@@ -1,0 +1,36 @@
+[{
+  "email": "marcostevanella@ginos.com",
+  "name": "Gino's",
+  "cusine": "italian",
+  "city": "Toronto"
+},
+{
+  "email": "joepham@thevietnamese.com",
+  "name": "The Vietnamese",
+  "cusine": "Vietnamese",
+  "city": "Brooklyn"
+},
+{
+  "email": "julienwidmer@swisstop.com",
+  "name": "Swiss Top",
+  "cusine": "Delicatessen",
+  "city": "Geneva"
+},
+{
+  "email": "muratistek@instanbulcafe.com",
+  "name": "Istanbul Cafe",
+  "cusine": "Turkish",
+  "city": "Toronto"
+},
+{
+  "email": "lorenzostevanlella@ginos.com",
+  "name": "gino's",
+  "cusine": "italian",
+  "city": "Toronto"
+},
+{
+  "email": "alessandrostevanella@ginos.com",
+  "name": "gino's",
+  "cusine": "italian",
+  "city": "Toronto"
+}]
